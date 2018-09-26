@@ -42,4 +42,5 @@ Parse the links to be extracted in an automated fashion instead of passing every
 ## FYI
 
 [Media Wiki API](https://www.mediawiki.org/wiki/API:Main_page)
+
 [OpenDaylight API](https://wiki.opendaylight.org/api.php)
