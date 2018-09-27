@@ -1,6 +1,18 @@
 # opendaylight-mediawiki-migration
 This is an automated simple mediawiki extractor and conversion to rst format.
 
+## Installation
+
+```
+git clone https://github.com/prateekiiest/opendaylight-mediawiki-migration.git
+
+```
+
+```
+(sudo) python extractor.py
+
+```
+
 ## Current Functionalities
 
 - Pass any valid mediawiki api URL and it will extract only the media-wiki content and store it in a file which will be converted to rst through pandoc.
