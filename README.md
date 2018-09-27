@@ -3,15 +3,12 @@ This is an automated simple mediawiki extractor and conversion to rst format.
 
 ## Installation
 
-```
-git clone https://github.com/prateekiiest/opendaylight-mediawiki-migration.git
+-     $ git clone https://github.com/prateekiiest/opendaylight-mediawiki-migration.git
 
-```
 
-```
-(sudo) python extractor.py
 
-```
+-     $ (sudo) python extractor.py
+
 
 ## Current Functionalities
 
