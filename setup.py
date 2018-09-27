@@ -15,7 +15,7 @@ setup(
 
     url='https://github.com/prateekiiest/opendaylight-mediawiki-migration',
 
-    license="GPL 3.0",
+    license="EPL 2.0",
     keywords=['text', 'rst', 'mediawiki'],
     scripts=['extractor.py']
 )
